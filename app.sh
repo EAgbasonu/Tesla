@@ -7,3 +7,4 @@ added a 4th line
 adding a 5th line
 trying our using sshkey
 trying out the difference between git fetch and git pull
+okay now we do git fetch
